@@ -1,1 +1,1 @@
-# Exercicios-Faculdade
+# Exercicios-FATEC
